@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.github.jefeish</groupId>
-  <artifactId>SimpleWebApp</artifactId>
+  <artifactId>HelloWorld</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>SimpleWebApp</name>
+  <name>HelloWorld</name>
   <url>http://jefeish.github.io</url>
 
   <properties>
